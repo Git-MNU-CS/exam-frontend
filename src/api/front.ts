@@ -1,0 +1,7 @@
+interface QueryContentListRequest {
+
+}
+
+interface QueryContentListResponse {
+
+}
